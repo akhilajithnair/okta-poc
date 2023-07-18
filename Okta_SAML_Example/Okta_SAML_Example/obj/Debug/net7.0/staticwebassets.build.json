@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NWCaZH8Rl4C3qkDdEpazNri+OHVd7NKBJypq9dUX3yw=",
+  "Source": "Okta_SAML_Example",
+  "BasePath": "_content/Okta_SAML_Example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

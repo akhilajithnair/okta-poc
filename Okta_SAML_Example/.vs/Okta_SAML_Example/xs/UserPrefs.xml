@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5EA1F1F9-B094-4528-9DE3-7DF82420E3F3}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Okta_SAML_Example/Controllers/AuthController.cs">
+    <Files>
+      <File FileName="Okta_SAML_Example/Program.cs" Line="15" Column="10" />
+      <File FileName="Okta_SAML_Example/Startup.cs" Line="26" Column="1" />
+      <File FileName="Okta_SAML_Example/Controllers/AuthController.cs" Line="25" Column="10" />
+      <File FileName="Okta_SAML_Example/ClaimsTransform.cs" Line="21" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Okta_SAML_Example" expanded="True">
+            <Node name="Okta_SAML_Example" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Okta__SAML__Example PreferredExecutionTarget="/Applications/Brave Browser.app" />
+</Properties>
